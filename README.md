@@ -197,7 +197,6 @@ If you've been through an interview with one of these companies recently, and yo
 - [Coorp Academy](https://www.coorpacademy.com) | Paris, France | Technical interview as an open discussion
 - [Cosium](https://www.cosium.com) | Versailles, France | Phone screen, take-home coding challenge, remote or on-site technical interview starting with a quiz about tech fundamentals that often leads to an open discussion.
 - [Cossack Labs](https://www.cossacklabs.com/job/) | London, UK / Kyiv, UA / Remote | Initial screening video call, technical take-home challenge, technical interview with the team about real-world tasks and candidates' day-to-day work (programming, networking, OS, SSDLC, security).
-- [CoverHound, Inc.](https://www.coverhound.com) | San Francisco, CA | Open technical discussion, short on-site coding challenge.
 - [Cox Enterprises](https://jobs.coxenterprises.com/en/career-areas/technology/) | Atlanta, GA; Remote | First-round behavioral interview with Engineering Lead, second-round technical discussion with the dev team
 - [COYO](https://www.coyoapp.com) | Hamburg, Germany | Exemplary take home project in different front- and backend flavors, followed by tech interview & meet the team
 - [Crownstone](https://crownstone.rocks/jobs) | Rotterdam, Netherlands | Technical interaction using previously created GitHub projects, followed by in-person interview with a focus on someone's professional ambition in the short and long term.
